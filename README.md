@@ -8,5 +8,6 @@ line 6
 test 7 
 
 git add .
+git checkout
 git commit -m "commit acıklaması"
 git push origin main
