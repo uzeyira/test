@@ -5,4 +5,4 @@ def sum(a,b):
 
 
 
-print(sum(5+7))
+print(sum(5,7))
