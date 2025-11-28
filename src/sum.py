@@ -1,9 +1,8 @@
+sayi1 = float(input("Birinci sayıyı girin: "))
+sayi2 = float(input("İkinci sayıyı girin: "))
 
+toplam = sayi1 + sayi2
+cikarma = sayi1 - sayi2
 
-def sum(a,b):
-    return a-b
-
-
-
-print(sum(7,3))
-print("hello yes")
+print("Toplam:", toplam)
+print("Çikarma:", cikarma)
