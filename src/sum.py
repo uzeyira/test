@@ -6,4 +6,4 @@ def sum(a,b):
 
 
 print(sum(7,3))
-print("hello ye")
+print("hello yes")
