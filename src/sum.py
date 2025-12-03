@@ -8,7 +8,7 @@ from random import randint
 """
 
 print("-" * 50)
-print("\t\tHOŞSGELDİNİZ..")
+print("\t\tHOŞSsGELDİNİZ..")
 print("-" * 50, "\n")
 
 
