@@ -47,7 +47,7 @@ def secim():
     print(" Hangi seviyeden başlamak istiyorsunuz (çıkış = -1) ?\n")
     print("  1 - Kolay ")
     print("  2 - Orta ")
-    print("  3 - Zor")
+    print("  3 - Zordur")
     print("  4 - Çok zor\n")
 
     svy = input(" >> ")
