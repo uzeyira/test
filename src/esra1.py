@@ -25,7 +25,7 @@ risk_words = {
 }
 
 # -------------------------------
-# RİSK HESAPLAMA
+# RİSK HESAPLAMA 
 # -------------------------------
 def calculate_risk(text):
     score = 0
